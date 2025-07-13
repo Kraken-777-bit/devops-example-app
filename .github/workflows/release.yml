@@ -6,8 +6,7 @@ on:
       - v*
 
 env:
-  APP_IMAGE_NAME: alkselsv/devops-example-app
-  CADDY_IMAGE_NAME: alkselsv/devops-example-caddy
+  APP_IMAGE_NAME: kraken777/devops-example-app
 
 jobs:
   docker:
